@@ -1,0 +1,51 @@
+{
+ "posters": [
+  {
+   "id": "gta6-out",
+   "title": "GTA 6 is out",
+   "text": "Launch-week streams are the biggest of the year. Clip them while everyone's watching.",
+   "cta": "Clip a live stream",
+   "action": {
+    "type": "page",
+    "target": "live"
+   },
+   "style": "rose",
+   "icon": "flame",
+   "starts": "2026-11-19",
+   "ends": "2026-12-10"
+  },
+  {
+   "id": "rules-check",
+   "title": "Never lose a campaign payout",
+   "text": "Every campaign clip is checked against its rules before you post: length, credit, hashtags, banned words.",
+   "cta": "Open your campaigns",
+   "action": {
+    "type": "page",
+    "target": "board"
+   },
+   "style": "violet",
+   "icon": "trophy"
+  },
+  {
+   "id": "platform-frames",
+   "title": "New: TikTok, Instagram, Facebook, X and Rumble frames",
+   "text": "One click in Layout → Themes, with the platform's mark beside the streamer's name.",
+   "cta": "Try a frame",
+   "action": {
+    "type": "page",
+    "target": "layout"
+   },
+   "style": "blue",
+   "icon": "sparkles",
+   "min_version": "0.2.5"
+  }
+ ],
+ "live": [
+  {
+   "url": "https://www.youtube.com/@IShowSpeed/live",
+   "name": "IShowSpeed"
+  }
+ ],
+ "sig": "lvp65jRUGLsiL1EIJuf8jlX27eBgaUVRd6TXlC8A6gwJ18HDdqPDPpFJwq3CdFLikz9slkoccsvuKZLfWy65DQ==",
+ "published": "2026-11-21T13:04:37+00:00"
+}
